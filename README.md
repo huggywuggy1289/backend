@@ -40,8 +40,8 @@
 
 | [<img src="https://github.com/.png" width="150px">](https://github.com/) | [<img src="https://github.com/kcw9609.png" width="150px">](https://github.com/kcw9609) | [<img src="https://github.com/BestTomaTo.png" width="150px">](https://github.com/BestTomaTo) | [<img src="https://github.com/huggywuggy1289.png" width="150px">](https://github.com/huggywuggy1289) | [<img src="https://github.com/.png" width="150px">](https://github.com/) | [<img src="https://github.com/1.png" width="150px">](https://github.com/) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [PM](https://github.com/PM) | [강채원](https://github.com/kcw9609) | [BestTomaTo](https://github.com/BestTomaTo) | [huggywuggy1289](https://github.com/huggywuggy1289) | [](https://github.com/) | [](https://github.com/) |
-| • PM | • 백엔드  |  • CI/CD 구축, 백엔드 | • CI/CD & 배포 백엔드 | • 프론트  | • 프론트  |
+| [PM](https://github.com/PM) | [강채원](https://github.com/kcw9609) | [BestTomaTo](https://github.com/BestTomaTo) | [huggywuggy1289](https://github.com/huggywuggy1289) |
+| • PM | • 백엔드  |  • CI/CD 구축, 백엔드 | • CI/CD & 배포 백엔드 |
 
 ---
 ## **💡3. UI/UX **
